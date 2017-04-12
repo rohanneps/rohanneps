@@ -1,0 +1,4 @@
+id,price,name,desc
+PMDT297,Data is same,Data is same,Column missing in provided fields to scrape
+PMDT207,Data is same,Data is same,Column missing in provided fields to scrape
+test_extra,Product not present in provided url,Product not present in provided url,Product not present in provided url
