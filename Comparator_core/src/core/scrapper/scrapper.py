@@ -3,6 +3,7 @@ import pandas as pd
 from selenium import webdriver
 import os
 import logging
+import requests
 
 class Scrapper(BaseTask):
 	
@@ -16,8 +17,8 @@ class Scrapper(BaseTask):
 		
 		# get dictionary from field and xpath
 		self.field_identifier_dict = self.field_identifier_file_df.set_index(self.file_xpath_col_list[0])[self.file_xpath_col_list[1]].to_dict()
-		# self.driver = webdriver.Firefox()
-		self.driver = webdriver.PhantomJS()
+		self.driver = webdriver.Firefox()
+		# self.driver = webdriver.PhantomJS()
 		self.scrapped_data_df = pd.DataFrame(columns = [self.url_to_scrape_file_df.columns.tolist()[0]]+list(self.field_identifier_dict.keys()))
 
 	def start_task(self):
@@ -33,17 +34,27 @@ class Scrapper(BaseTask):
 	def scrape_url(self,row):
 		primary_id = row[row.index.tolist()[0]]
 		url = row[row.index.tolist()[1]]
-		self.driver.get(url)
+		
 		# Data is stored in list for each row
 		row_data_list = [primary_id]
-		for key in self.field_identifier_dict:
-			element_extraction_identifier = self.field_identifier_dict[key]
-			try:
-				scrapped_data = self.find_element(element_extraction_identifier,'xpath')
-			except:
-				scrapped_data = none
-			row_data_list.append(scrapped_data)
+
+		#Checking to see if page doesn't exist
+		request = requests.get(url)
+		if request.status_code == 404:
+			# print url
+			row_data_not_found_list = ['Page Not Found' for x in range(1,len(self.scrapped_data_df.columns.tolist()))]
+			row_data_list = row_data_list + row_data_not_found_list
+		else:
+			self.driver.get(url)
+			for key in self.field_identifier_dict:
+				element_extraction_identifier = self.field_identifier_dict[key]
+				try:
+					scrapped_data = self.find_element(element_extraction_identifier,'xpath')
+				except:
+					scrapped_data = None
+				row_data_list.append(scrapped_data)
 		# print row_data_list
+		self.logger.info(row_data_list)
 		self.scrapped_data_df = self.scrapped_data_df.append(pd.Series(row_data_list,index = self.scrapped_data_df.columns.tolist()),ignore_index=True)
 
 

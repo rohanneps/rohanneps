@@ -21,13 +21,16 @@ class Comparator(BaseTask):
 	def start_task(self):
 		self.logger.info('Starting comparision task')
 		self.platform_import_file.apply(self.compare_data,axis=1)
-		
+		self.get_extra_scrapped_rows()
+
 
 	def stop_task(self):
 		self.logger.info('Comparision task completed')
 		report_file_name = os.path.join(self.output_dir,self.comparision_report_file)
 		self.report_csv.to_csv(report_file_name,index=False)
 		self.logger.debug('Report generated to file {}',format(report_file_name))
+
+
 
 	# Data comparison for each row
 	def compare_data(self,row):
@@ -47,7 +50,9 @@ class Comparator(BaseTask):
 					if column != primary_id_column:
 						column_value = row[column].strip()
 						try:
-							scrapped_column_data = scrapped_data_row[column].strip()
+							scrapped_column_data = scrapped_data_row[column]
+							if type(scrapped_column_data) == str:
+								scrapped_column_data = scrapped_column_data.strip()
 							if column_value == scrapped_column_data:
 								row_report.append('Data is same')
 							else:
@@ -62,8 +67,17 @@ class Comparator(BaseTask):
 		# print row_report
 		self.report_csv = self.report_csv.append(pd.Series(row_report,index = self.platform_import_file.columns.tolist()),ignore_index=True)
 		
-
-		
+	
+	#Appending additional scrapped url
+	def get_extra_scrapped_rows(self):
+		all_scraped_primary_identifier = set(self.output_file.ix[:,0].tolist())
+		all_splatform_primary_identifier = set(self.platform_import_file.ix[:,0].tolist())
+		extra_scrapped_rows = all_scraped_primary_identifier - all_splatform_primary_identifier
+		for extra_row in extra_scrapped_rows:
+			extra_row_data_all_columns = [extra_row]
+			extra_row_data = ['Row not present in platform file' for x in range(1,len(self.platform_import_file.columns.tolist()))]
+			extra_row_data_all_columns = extra_row_data_all_columns + extra_row_data
+			self.report_csv = self.report_csv.append(pd.Series(extra_row_data_all_columns,index = self.platform_import_file.columns.tolist()),ignore_index=True)			
 
 
 

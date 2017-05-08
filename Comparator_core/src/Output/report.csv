@@ -1,4 +1,4 @@
 id,price,name,desc
-PMDT297,Data is same,Data is same,Column missing in provided fields to scrape
-PMDT207,Data is same,Data is same,Column missing in provided fields to scrape
-test_extra,Product not present in provided url,Product not present in provided url,Product not present in provided url
+LEDSOLAR,Data is not same,Data is same,Column missing in provided fields to scrape
+AF41270,Data is same,Data is same,Column missing in provided fields to scrape
+RW-3370,Row not present in platform file,Row not present in platform file,Row not present in platform file

@@ -1,11 +1,103 @@
-2017-04-19 14:54:19,185 - __main__ - INFO - *****************************
-2017-04-19 14:54:19,186 - __main__ - INFO - Starting Scrapping task
-2017-04-19 14:55:07,191 - __main__ - INFO - Scrapping task completed
-2017-04-19 14:55:07,206 - __main__ - INFO - *****************************
-2017-04-19 14:55:07,214 - __main__ - INFO - *****************************
-2017-04-19 14:55:07,214 - __main__ - INFO - Starting comparision task
-2017-04-19 14:55:07,240 - __main__ - INFO - Comparision task completed
-2017-04-19 14:55:07,241 - __main__ - INFO - *****************************
-2017-04-19 14:55:07,242 - __main__ - INFO - *****************************
-2017-04-19 14:55:07,242 - __main__ - INFO - Closing Comparator.
-2017-04-19 14:55:07,242 - __main__ - INFO - *****************************
+2017-05-05 18:08:35,932 - __main__ - INFO - *****************************
+2017-05-05 18:08:35,933 - __main__ - INFO - Starting Scrapping task
+2017-05-05 18:09:01,273 - __main__ - INFO - ['PMDT297', '$5.00', 'US Flag Dog Tag']
+2017-05-05 18:09:14,317 - __main__ - INFO - ['PMDT207', '$5.00', 'POW MIA Dog Tag']
+2017-05-05 18:09:14,992 - __main__ - INFO - ['tyast', ['Page Not Found', 'Page Not Found']]
+2017-05-05 18:09:25,303 - __main__ - INFO - ['PMDT297', '$5.00', 'US Flag Dog Tag']
+2017-05-05 18:09:44,048 - __main__ - INFO - ['PMDT207', '$5.00', 'POW MIA Dog Tag']
+2017-05-05 18:09:44,712 - __main__ - INFO - ['tyast', ['Page Not Found', 'Page Not Found']]
+2017-05-05 18:10:58,550 - __main__ - INFO - *****************************
+2017-05-05 18:10:58,550 - __main__ - INFO - Starting Scrapping task
+2017-05-05 18:11:20,974 - __main__ - INFO - ['PMDT297', '$5.00', 'US Flag Dog Tag']
+2017-05-05 18:11:34,894 - __main__ - INFO - ['PMDT207', '$5.00', 'POW MIA Dog Tag']
+2017-05-05 18:11:35,537 - __main__ - INFO - ['tyast', 'Page Not Found', 'Page Not Found']
+2017-05-05 18:11:35,543 - __main__ - INFO - Scrapping task completed
+2017-05-05 18:11:35,617 - __main__ - INFO - *****************************
+2017-05-05 18:11:35,627 - __main__ - INFO - *****************************
+2017-05-05 18:11:35,628 - __main__ - INFO - Starting comparision task
+2017-05-05 18:11:35,665 - __main__ - INFO - Comparision task completed
+2017-05-05 18:11:35,668 - __main__ - INFO - *****************************
+2017-05-08 14:31:49,850 - __main__ - INFO - *****************************
+2017-05-08 14:31:49,909 - __main__ - INFO - Starting Scrapping task
+2017-05-08 14:37:08,572 - __main__ - INFO - *****************************
+2017-05-08 14:37:08,572 - __main__ - INFO - Starting Scrapping task
+2017-05-08 14:43:08,926 - __main__ - INFO - *****************************
+2017-05-08 14:43:08,927 - __main__ - INFO - Starting Scrapping task
+2017-05-08 14:43:49,933 - __main__ - INFO - *****************************
+2017-05-08 14:43:49,934 - __main__ - INFO - Starting Scrapping task
+2017-05-08 14:54:18,464 - __main__ - INFO - *****************************
+2017-05-08 14:54:18,469 - __main__ - INFO - Starting Scrapping task
+2017-05-08 14:59:00,565 - __main__ - INFO - *****************************
+2017-05-08 14:59:00,566 - __main__ - INFO - Starting Scrapping task
+2017-05-08 15:01:33,514 - __main__ - INFO - ['LEDSOLAR', None, None]
+2017-05-08 15:01:46,395 - __main__ - INFO - ['AF41270', None, None]
+2017-05-08 15:01:56,921 - __main__ - INFO - ['RW-3370', None, None]
+2017-05-08 15:01:56,928 - __main__ - INFO - Scrapping task completed
+2017-05-08 15:01:56,982 - __main__ - INFO - *****************************
+2017-05-08 15:01:56,994 - __main__ - INFO - *****************************
+2017-05-08 15:01:56,995 - __main__ - INFO - Starting comparision task
+2017-05-08 15:04:02,032 - __main__ - INFO - *****************************
+2017-05-08 15:04:02,033 - __main__ - INFO - Starting Scrapping task
+2017-05-08 15:04:25,775 - __main__ - INFO - ['LEDSOLAR', None, None]
+2017-05-08 15:04:34,754 - __main__ - INFO - ['AF41270', None, None]
+2017-05-08 15:04:43,661 - __main__ - INFO - ['RW-3370', None, None]
+2017-05-08 15:04:43,668 - __main__ - INFO - Scrapping task completed
+2017-05-08 15:04:43,716 - __main__ - INFO - *****************************
+2017-05-08 15:06:31,600 - __main__ - INFO - *****************************
+2017-05-08 15:06:31,600 - __main__ - INFO - Starting Scrapping task
+2017-05-08 15:06:57,088 - __main__ - INFO - ['LEDSOLAR', None, 'LEDSOLAR SOLAR CEMETERY CANDLE']
+2017-05-08 15:07:07,660 - __main__ - INFO - ['AF41270', '$37.43', 'AF41270 CHACE ADVENT CANDLES']
+2017-05-08 15:07:19,826 - __main__ - INFO - ['RW-3370', None, 'RW-3370 ADVENT WREATH']
+2017-05-08 15:07:19,831 - __main__ - INFO - Scrapping task completed
+2017-05-08 15:07:19,891 - __main__ - INFO - *****************************
+2017-05-08 15:07:19,901 - __main__ - INFO - *****************************
+2017-05-08 15:07:19,901 - __main__ - INFO - Starting comparision task
+2017-05-08 15:07:19,930 - __main__ - INFO - Comparision task completed
+2017-05-08 15:07:19,940 - __main__ - INFO - *****************************
+2017-05-08 15:36:33,914 - __main__ - INFO - *****************************
+2017-05-08 15:36:33,914 - __main__ - INFO - Starting Scrapping task
+2017-05-08 15:37:05,301 - __main__ - INFO - ['LEDSOLAR', None, 'LEDSOLAR SOLAR CEMETERY CANDLE']
+2017-05-08 15:37:17,452 - __main__ - INFO - ['AF41270', '$37.43', 'AF41270 CHACE ADVENT CANDLES']
+2017-05-08 15:37:29,975 - __main__ - INFO - ['RW-3370', None, 'RW-3370 ADVENT WREATH']
+2017-05-08 15:37:29,981 - __main__ - INFO - Scrapping task completed
+2017-05-08 15:37:30,048 - __main__ - INFO - *****************************
+2017-05-08 15:37:30,060 - __main__ - INFO - *****************************
+2017-05-08 15:37:30,061 - __main__ - INFO - Starting comparision task
+2017-05-08 15:37:30,098 - __main__ - INFO - Comparision task completed
+2017-05-08 15:37:30,105 - __main__ - INFO - *****************************
+2017-05-08 15:37:57,540 - __main__ - INFO - *****************************
+2017-05-08 15:37:57,541 - __main__ - INFO - Starting Scrapping task
+2017-05-08 15:38:26,202 - __main__ - INFO - ['LEDSOLAR', None, 'LEDSOLAR SOLAR CEMETERY CANDLE']
+2017-05-08 15:38:36,120 - __main__ - INFO - ['AF41270', '$37.43', 'AF41270 CHACE ADVENT CANDLES']
+2017-05-08 15:38:45,703 - __main__ - INFO - ['RW-3370', None, 'RW-3370 ADVENT WREATH']
+2017-05-08 15:38:45,709 - __main__ - INFO - Scrapping task completed
+2017-05-08 15:38:45,764 - __main__ - INFO - *****************************
+2017-05-08 15:38:45,777 - __main__ - INFO - *****************************
+2017-05-08 15:38:45,777 - __main__ - INFO - Starting comparision task
+2017-05-08 15:38:45,797 - __main__ - INFO - set(['RW-3370'])
+2017-05-08 15:38:45,800 - __main__ - INFO - Comparision task completed
+2017-05-08 15:38:45,801 - __main__ - INFO - *****************************
+2017-05-08 15:40:34,283 - __main__ - INFO - *****************************
+2017-05-08 15:40:34,284 - __main__ - INFO - Starting Scrapping task
+2017-05-08 15:40:59,791 - __main__ - INFO - ['LEDSOLAR', None, 'LEDSOLAR SOLAR CEMETERY CANDLE']
+2017-05-08 15:41:12,102 - __main__ - INFO - ['AF41270', '$37.43', 'AF41270 CHACE ADVENT CANDLES']
+2017-05-08 15:41:23,114 - __main__ - INFO - ['RW-3370', None, 'RW-3370 ADVENT WREATH']
+2017-05-08 15:41:23,123 - __main__ - INFO - Scrapping task completed
+2017-05-08 15:41:23,189 - __main__ - INFO - *****************************
+2017-05-08 15:41:23,201 - __main__ - INFO - *****************************
+2017-05-08 15:41:23,201 - __main__ - INFO - Starting comparision task
+2017-05-08 15:41:23,224 - __main__ - INFO - set(['RW-3370'])
+2017-05-08 15:41:23,225 - __main__ - INFO - ['RW-3370', 'Row not present in platform file', 'Row not present in platform file', 'Row not present in platform file']
+2017-05-08 15:41:23,233 - __main__ - INFO - Comparision task completed
+2017-05-08 15:41:23,235 - __main__ - INFO - *****************************
+2017-05-08 15:43:08,143 - __main__ - INFO - *****************************
+2017-05-08 15:43:08,144 - __main__ - INFO - Starting Scrapping task
+2017-05-08 15:43:26,771 - __main__ - INFO - ['LEDSOLAR', None, 'LEDSOLAR SOLAR CEMETERY CANDLE']
+2017-05-08 15:43:37,485 - __main__ - INFO - ['AF41270', '$37.43', 'AF41270 CHACE ADVENT CANDLES']
+2017-05-08 15:43:47,828 - __main__ - INFO - ['RW-3370', None, 'RW-3370 ADVENT WREATH']
+2017-05-08 15:43:47,835 - __main__ - INFO - Scrapping task completed
+2017-05-08 15:43:47,884 - __main__ - INFO - *****************************
+2017-05-08 15:43:47,904 - __main__ - INFO - *****************************
+2017-05-08 15:43:47,909 - __main__ - INFO - Starting comparision task
+2017-05-08 15:43:47,955 - __main__ - INFO - Comparision task completed
+2017-05-08 15:43:47,959 - __main__ - INFO - *****************************
