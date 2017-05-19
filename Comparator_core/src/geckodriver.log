@@ -895,3 +895,390 @@ JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable
 JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
 1494237527838	Marionette	INFO	New connections will no longer be accepted
 [Child 15459] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494304790416	geckodriver	INFO	Listening on 127.0.0.1:44333
+1494304791531	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EZCMAS3cnOrw
+1494304791533	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494304791559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36159
+1494304803137	Marionette	INFO	Listening on port 36159
+1494304803252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494304855696	Marionette	INFO	New connections will no longer be accepted
+1494305787544	geckodriver	INFO	Listening on 127.0.0.1:57351
+1494305788615	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ImEpPp7nKITU
+1494305788616	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494305788619	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42541
+1494305794411	Marionette	INFO	Listening on port 42541
+1494305794509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494305848818	Marionette	INFO	New connections will no longer be accepted
+1494306027258	geckodriver	INFO	Listening on 127.0.0.1:47466
+1494306028330	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ynlFjqs4RNME
+1494306028331	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494306028335	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44993
+1494306033619	Marionette	INFO	Listening on port 44993
+1494306033717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494306051137	geckodriver	INFO	Listening on 127.0.0.1:60200
+1494306052208	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YVLBqjY2iHwu
+1494306052210	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494306052213	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40153
+1494306057265	Marionette	INFO	Listening on port 40153
+1494306057355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494306116544	Marionette	INFO	New connections will no longer be accepted
+[Child 7066] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494306195763	geckodriver	INFO	Listening on 127.0.0.1:50335
+1494306196834	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.A3rE8bHLHwNb
+1494306196836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494306196839	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46436
+1494306202159	Marionette	INFO	Listening on port 46436
+1494306202286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494306251505	Marionette	INFO	New connections will no longer be accepted
+[Child 7300] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494306431288	geckodriver	INFO	Listening on 127.0.0.1:55269
+1494306432361	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fE0EYyIq8v01
+1494306432363	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494306432366	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43069
+1494306438208	Marionette	INFO	Listening on port 43069
+1494306438319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494306485137	Marionette	INFO	New connections will no longer be accepted
+1494330221482	geckodriver	INFO	Listening on 127.0.0.1:47646
+1494330222553	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qCn6Zgx6BV8J
+1494330222554	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494330222559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43381
+1494330228491	Marionette	INFO	Listening on port 43381
+1494330228623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494330305541	Marionette	INFO	New connections will no longer be accepted
+1494330403029	geckodriver	INFO	Listening on 127.0.0.1:34906
+1494330404104	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WnTe3nyKi0dW
+1494330404106	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494330404109	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34812
+1494330409598	Marionette	INFO	Listening on port 34812
+1494330409675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494330434107	Marionette	INFO	New connections will no longer be accepted
+[Child 28002] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 28002] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494330552297	geckodriver	INFO	Listening on 127.0.0.1:59562
+1494330553372	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.N95F1uqRPbu4
+1494330553373	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494330553376	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46705
+1494330559105	Marionette	INFO	Listening on port 46705
+1494330559213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494330585498	Marionette	INFO	New connections will no longer be accepted
+[Child 28230] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1494330694726	geckodriver	INFO	Listening on 127.0.0.1:38835
+1494330695808	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kpQwoz37I8Vh
+1494330695810	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494330695813	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34783
+1494330701754	Marionette	INFO	Listening on port 34783
+1494330701873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494330730452	Marionette	INFO	New connections will no longer be accepted
+1494330926068	geckodriver	INFO	Listening on 127.0.0.1:33884
+1494330927145	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kWxl1VMUFDPm
+1494330927146	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494330927150	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35053
+1494330932668	Marionette	INFO	Listening on port 35053
+1494330932893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494331112210	Marionette	INFO	New connections will no longer be accepted
+[Child 28820] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1494331226331	geckodriver	INFO	Listening on 127.0.0.1:58136
+1494331227403	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.r2cRo4J6UIW6
+1494331227404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494331227407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39260
+1494331233129	Marionette	INFO	Listening on port 39260
+1494331233268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+[Child 29094] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=217.121) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400C6,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1494331453631	geckodriver	INFO	Listening on 127.0.0.1:58908
+1494331454704	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.h44N4IhWCLaD
+1494331454706	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494331454709	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33200
+1494331460132	Marionette	INFO	Listening on port 33200
+1494331460253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494331511227	Marionette	INFO	New connections will no longer be accepted
+[Child 29308] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494497659130	geckodriver	INFO	Listening on 127.0.0.1:37197
+1494497660224	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CLhcHwWEeIOU
+1494497660226	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494497660257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45252
+1494497671351	Marionette	INFO	Listening on port 45252
+1494497671508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494497700740	Marionette	INFO	New connections will no longer be accepted
+[Child 18787] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1494497980894	geckodriver	INFO	Listening on 127.0.0.1:39852
+1494497981966	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.D2ZBrnwi5tVZ
+1494497981967	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494497981971	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33133
+1494497988031	Marionette	INFO	Listening on port 33133
+1494497988107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494498185265	geckodriver	INFO	Listening on 127.0.0.1:59155
+1494498185351	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Hp6RS1XZRPvi
+1494498185352	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494498185360	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44653
+1494498191197	Marionette	INFO	Listening on port 44653
+1494498191364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494498217613	Marionette	INFO	New connections will no longer be accepted
+1494498289691	geckodriver	INFO	Listening on 127.0.0.1:52981
+1494498290764	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UwGjrKCk29Us
+1494498290766	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494498290769	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39993
+1494498296612	Marionette	INFO	Listening on port 39993
+1494498296737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494498318624	Marionette	INFO	New connections will no longer be accepted
+[Child 21832] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1494498929700	geckodriver	INFO	Listening on 127.0.0.1:39106
+1494498930781	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZLxltRM2I4zW
+1494498930782	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494498930786	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44983
+1494498936624	Marionette	INFO	Listening on port 44983
+1494498936795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494498970967	Marionette	INFO	New connections will no longer be accepted
+1494499000130	geckodriver	INFO	Listening on 127.0.0.1:34686
+1494499001205	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7vqpPs9C8eWA
+1494499001206	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494499001209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37131
+1494499007100	Marionette	INFO	Listening on port 37131
+1494499007214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+1494499041815	Marionette	INFO	New connections will no longer be accepted
+1494500729487	geckodriver	INFO	Listening on 127.0.0.1:44692
+1494500730562	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VSpbrWHu5NPH
+1494500730564	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494500730567	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36978
+1494500736642	Marionette	INFO	Listening on port 36978
+1494500736809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/arw/ajaxcart/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: http://www.religiousgiftwarehouse.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1494501622186	geckodriver	INFO	Listening on 127.0.0.1:58055
+1494501623260	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pr1gBrKgU3Wg
+1494501623262	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494501623268	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35615
+1494501629184	Marionette	INFO	Listening on port 35615
+1494501629357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494501660258	geckodriver	INFO	Listening on 127.0.0.1:49982
+1494501661330	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8jHBeLGVLmwJ
+1494501661332	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494501661337	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40717
+1494501666668	Marionette	INFO	Listening on port 40717
+1494501666941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494502303987	geckodriver	INFO	Listening on 127.0.0.1:47881
+1494502305058	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2coPTPDYIyz9
+1494502305059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494502305062	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43656
+1494502310485	Marionette	INFO	Listening on port 43656
+1494502310594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.paypalobjects.com/web/res/536/87fb7f4f45be7ac9b568b499c8b61/js/main.js, line 17915: unreachable code after return statement
+1494502349447	Marionette	INFO	New connections will no longer be accepted
+[Child 5717] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494502416547	geckodriver	INFO	Listening on 127.0.0.1:40667
+1494502417623	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kBI5XSCdU5Rn
+1494502417626	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494502417629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40889
+1494502423180	Marionette	INFO	Listening on port 40889
+1494502423292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494502453715	Marionette	INFO	New connections will no longer be accepted
+[Child 6491] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494502479186	geckodriver	INFO	Listening on 127.0.0.1:53883
+1494502480261	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FDU0MW0u7yKG
+1494502480262	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494502480265	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42194
+1494502485475	Marionette	INFO	Listening on port 42194
+1494502485556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494502500921	Marionette	INFO	New connections will no longer be accepted
+[Child 6853] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494502535195	geckodriver	INFO	Listening on 127.0.0.1:53937
+1494502536267	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Bik3brcc1tOw
+1494502536269	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494502536272	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40879
+1494502541470	Marionette	INFO	Listening on port 40879
+1494502541548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494502557917	Marionette	INFO	New connections will no longer be accepted
+1494502575837	geckodriver	INFO	Listening on 127.0.0.1:35089
+1494502576912	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SBatJtHN9sIZ
+1494502576913	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494502576918	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38942
+1494502582427	Marionette	INFO	Listening on port 38942
+1494502582593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494502597773	Marionette	INFO	New connections will no longer be accepted
+1494502808793	geckodriver	INFO	Listening on 127.0.0.1:48303
+1494502809867	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Smm5afFR4H2Z
+1494502809868	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494502809874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39066
+1494502815264	Marionette	INFO	Listening on port 39066
+1494502815378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.paypalobjects.com/web/res/536/87fb7f4f45be7ac9b568b499c8b61/js/main.js, line 17915: unreachable code after return statement
+1494502850183	Marionette	INFO	New connections will no longer be accepted
+1494502975582	geckodriver	INFO	Listening on 127.0.0.1:60316
+1494502976657	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.p5aX6GA0nJot
+1494502976658	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494502976665	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43265
+1494502982400	Marionette	INFO	Listening on port 43265
+1494502982566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.paypalobjects.com/web/res/536/87fb7f4f45be7ac9b568b499c8b61/js/main.js, line 17915: unreachable code after return statement
+1494503019716	Marionette	INFO	New connections will no longer be accepted
+[Child 9303] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1494503129909	geckodriver	INFO	Listening on 127.0.0.1:40249
+1494503130982	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Y744lal04xTY
+1494503130984	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494503130988	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45805
+1494503136493	Marionette	INFO	Listening on port 45805
+1494503136647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.paypalobjects.com/web/res/536/87fb7f4f45be7ac9b568b499c8b61/js/main.js, line 17915: unreachable code after return statement
+1494503177768	Marionette	INFO	New connections will no longer be accepted
+[Child 9989] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1494503257017	geckodriver	INFO	Listening on 127.0.0.1:60655
+1494503258110	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HcDf5P7Fqqn0
+1494503258111	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494503258116	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36941
+1494503263680	Marionette	INFO	Listening on port 36941
+1494503263770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494503287208	Marionette	INFO	New connections will no longer be accepted
+1494503339714	geckodriver	INFO	Listening on 127.0.0.1:42491
+1494503340793	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.taoHDpmUxO3e
+1494503340794	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494503340799	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38765
+1494503346564	Marionette	INFO	Listening on port 38765
+1494503346762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.paypalobjects.com/web/res/536/87fb7f4f45be7ac9b568b499c8b61/js/main.js, line 17915: unreachable code after return statement
+1494503379178	Marionette	INFO	New connections will no longer be accepted
+[Child 11233] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494835540916	geckodriver	INFO	Listening on 127.0.0.1:47816
+1494835542079	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.U7oYgSBNKk7U
+1494835542080	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1494835542110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43114
+1494835552915	Marionette	INFO	Listening on port 43114
+1494835552994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494835580626	Marionette	INFO	New connections will no longer be accepted
+[Child 5050] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4Fdt0Z/firefox-53.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346

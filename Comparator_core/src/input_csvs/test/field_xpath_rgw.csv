@@ -1,3 +1,4 @@
 field_name,xpath
 name,"//*[@id=""product_addtocart_form""]/div[2]/div[2]/div/div[1]/span"
 price,"//*[@id=""product-price-8769""]/span"
+desc,"//*[@id=""main""]/div[22]/div/h3"

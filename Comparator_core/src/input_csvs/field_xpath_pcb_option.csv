@@ -1,0 +1,3 @@
+field_name,xpath
+size,"//*[@id=""product-options-wrapper""]/div/div/div/div"
+image,"//*[@id=""magnifier-item-0""]"

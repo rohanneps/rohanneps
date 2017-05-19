@@ -28,7 +28,14 @@ if __name__=='__main__':
 
 	logger.addHandler(handler)
 
-	task_loader = TaskLoader(logger,output_dir)
+	comp_type = 'bulk'
+	max_error_threshold = 0
+
+	if comp_type =='immediate':
+		task_loader = TaskLoader(logger,output_dir,comp_type,max_error_threshold)
+	else:
+		task_loader = TaskLoader(logger,output_dir,comp_type)
+
 	task_loader.start_task()
 
 	

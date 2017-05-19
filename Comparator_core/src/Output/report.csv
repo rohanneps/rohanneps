@@ -1,4 +1,3 @@
-id,price,name,desc
-LEDSOLAR,Data is not same,Data is same,Column missing in provided fields to scrape
-AF41270,Data is same,Data is same,Column missing in provided fields to scrape
-RW-3370,Row not present in platform file,Row not present in platform file,Row not present in platform file
+"id","size","image"
+"Kickstart Your Heart Dress - Seafoam","Data option mismatch. Options not present in both file -L","Data is same"
+"Kickstart Your Heart Dress ","Page Not Found, Row not present in platform file","Page Not Found, Row not present in platform file"
