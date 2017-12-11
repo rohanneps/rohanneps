@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">win7</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="status">Status</string>
+    <string name="type">Type</string>
+  
+    <string name="roaming">Roaming status</string>
+    <string name="menu_settings">Settings</string>
+    
+
+</resources>

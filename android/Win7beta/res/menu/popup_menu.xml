@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item  
+        android:id="@+id/item1"  
+        android:title="Contacts"/>  
+      
+    <item  
+        android:id="@+id/item2"  
+        android:title="Camera"/><item android:id="@+id/item9" android:title="Set Alarm"></item><item android:id="@+id/item8" android:title="calendar"></item>  
+        
+    
+    <item android:id="@+id/item6" android:title="My apps"></item>
+    <item android:id="@+id/item7" android:title="Phone Explorer"></item>
+    <item android:id="@+id/item4" android:title="Gallery"></item>
+    <item android:id="@+id/item12" android:title="Music Player"></item>
+    
+    <item android:id="@+id/item5" android:title="Calculator"></item>
+    <item android:id="@+id/item11" android:title="Google Map"></item><item android:id="@+id/item3" android:title="Settings" /><item android:id="@+id/item13" android:title="Set Background"></item><item android:id="@+id/item10" android:title="Check Internet Connection"></item>
+    
+      
+
+
+</menu>
