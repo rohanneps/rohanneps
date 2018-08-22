@@ -47,5 +47,5 @@
 
 <h2>Author</h2>
 <ul>
-<li><strong>Rohan Man Amaty</strong></li>
+<li><strong>Rohan Man Amatya</strong></li>
 </ul>
