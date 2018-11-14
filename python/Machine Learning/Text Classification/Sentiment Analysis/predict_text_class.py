@@ -1,8 +1,7 @@
 import json
 import numpy as np
 import keras
-import keras.preprocessing.text as kpt
-from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.text import Tokenizer, text_to_word_sequence
 from keras.models import model_from_json
 from keras.models import load_model
 
@@ -16,7 +15,7 @@ with open('dictionary.json', 'r') as dictionary_file:
 
 # get index of word from dictionary
 def convert_text_to_index_array(text):
-    words = kpt.text_to_word_sequence(text)
+    words = text_to_word_sequence(text)
     wordIndices = []
     for word in words:
         if word in dictionary:
