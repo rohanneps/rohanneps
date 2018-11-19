@@ -14,10 +14,10 @@
 <br/>
 <h3>Start Predicting</h3>
 <pre>
-<code>python predict_image_color.py</code>
+<code>python predict_image_color.py</code></pre>
 <p>Predict the image color class label along with confidence score.
 </p>
-</pre>
+
 
 <h2>Built With</h2>
 <ul>
