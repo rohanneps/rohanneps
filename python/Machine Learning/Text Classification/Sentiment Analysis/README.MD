@@ -8,18 +8,18 @@
 <h3>Start Training</h3>
 <p>Following Step will suffice to train the module and generate a model</p>
 <pre>
-<code>python buildTextModel.py</code>
+<code>python buildTextModel.py</code></pre>
 <p>The code will generate a dictionary along with a text classification model.
 </p>
-</pre>
+
 
 <br/>
 <h3>Start Predicting</h3>
 <pre>
-<code>python predict_text_class.py</code>
+<code>python predict_text_class.py</code></pre>
 <p>Provides text category predicted along with confidence score.
 </p>
-</pre>
+
 
 <h2>Built With</h2>
 <ul>
