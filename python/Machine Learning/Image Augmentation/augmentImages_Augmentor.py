@@ -1,18 +1,22 @@
 import os
 import Augmentor
-import shutil
-from PIL import Image
-ROOT_DIR = 'images'
-NUM_OF_IMAGES  = 3
+import argparse
+
 
 
 if __name__ =='__main__':
+	parser = argparse.ArgumentParser(description='Augment Images for deep learning Model training. Images are generated in the same folder as input.')
+	parser.add_argument("--img_path", help="Image Directory path here", type=str) 
+	parser.add_argument("--num_images", help="Number of Images to be augmented for each category", type=int) 
+	args = parser.parse_args()
+	
+	img_path = args.img_path
+	num_images = args.num_images
 
-	for roots, dirs, files in os.walk(ROOT_DIR):
+	for roots, dirs, files in os.walk(img_path):
 		for __dir__ in dirs:
 			
-			# if __dir__=='Activyl':
-			dir_full_path = os.path.join(ROOT_DIR,__dir__)
+			dir_full_path = os.path.join(img_path,__dir__)
 
 			for subroots,subdirs,subfiles in os.walk(dir_full_path):
 				
@@ -27,5 +31,5 @@ if __name__ =='__main__':
 				p.skew_top_bottom(probability=0.3)
 				p.random_distortion(probability=0.5, grid_width=4, grid_height=4, magnitude=8)
 				p.crop_random(probability=1, percentage_area=0.5)
-				p.sample(NUM_OF_IMAGES)
+				p.sample(num_images)
 					
