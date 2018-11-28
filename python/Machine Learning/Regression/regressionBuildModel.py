@@ -28,17 +28,17 @@ if __name__=='__main__':
 	df = pd.read_csv('BostonHousing.csv', sep=',')
 	features = df.iloc[:,:13].values
 	output = df.iloc[:,13].values							# output values are in a list
-	output=	np.reshape(output, (-1,1))						# keeping values in a list itself
-	scaler = MinMaxScaler()
-	scaler.fit(features)
-	scaler.fit(output)
-	xscale=scaler.transform(features)
-	yscale=scaler.transform(output)
+	# output=	np.reshape(output, (-1,1))						# keeping values in a list itself
+	# scaler = MinMaxScaler()
+	# scaler.fit(features)
+	# scaler.fit(output)
+	# xscale=scaler.transform(features)
+	# yscale=scaler.transform(output)
 	model = getModel()
 	tensorboard = TensorBoard(log_dir="logs",write_graph=True)
 	filepath="regression_model.best.hdf5"
 	model_check_point = ModelCheckpoint(filepath, monitor='val_mean_squared_error', verbose=0, save_best_only=True, mode='auto', period=1)
 
-	h = model.fit(xscale, yscale, epochs=300, batch_size=16, validation_split=0.2,shuffle=True, callbacks = [model_check_point,tensorboard],)
+	h = model.fit(features, output, epochs=300, batch_size=16, validation_split=0.2,shuffle=True, callbacks = [model_check_point,tensorboard],)
 
 	# model.save('regression_model.save')
