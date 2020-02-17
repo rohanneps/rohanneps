@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="350dp"
+    android:layout_height="450dp"
+    android:layout_marginBottom="55dp"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        app:cardCornerRadius="7dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/searchImageView"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_marginBottom="75dp"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:id="@+id/resultImageView"
+                android:layout_width="342dp"
+                android:layout_height="170dp"
+                android:layout_marginTop="-74dp"
+                android:scaleType="fitXY" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="98dp"
+            android:layout_gravity="bottom"
+            android:gravity="center|left"
+            android:paddingLeft="20dp">
+
+            <TextView
+                android:id="@+id/sPrice"
+                android:layout_width="49dp"
+                android:layout_height="16dp"
+                android:text="Search"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="13dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/sTitle"
+                android:layout_width="104dp"
+                android:layout_height="40dp"
+                android:layout_alignStart="@+id/sPrice"
+                android:layout_centerVertical="true"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="12dp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/showDetails"
+                android:layout_width="49dp"
+                android:layout_height="33dp"
+                android:layout_alignTop="@+id/sPrice"
+                android:layout_centerHorizontal="true"
+                android:text="Show Details"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/rPrice"
+                android:layout_width="48dp"
+                android:layout_height="16dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignTop="@+id/sPrice"
+                android:layout_marginEnd="48dp"
+                android:text="Result"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="13dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/rTitle"
+                android:layout_width="75dp"
+                android:layout_height="40dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="19dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="12dp"
+                android:textStyle="normal" />
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</FrameLayout>
